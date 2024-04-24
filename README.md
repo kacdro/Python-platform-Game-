@@ -1,4 +1,4 @@
-![](documentation/segway_jump_title.png)
+
 
 https://user-images.githubusercontent.com/66446067/231748086-65146803-a4ea-499d-8dbf-b197f4f6a5fd.mov
 #
